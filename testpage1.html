@@ -1,0 +1,32 @@
+<!-- *********** heading *********** -->
+<html>
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=SHIFT_JIS">
+<title>
+Remote Lecture / Tips
+</title>
+<link rel="stylesheet" href="test.css" type="text/css">
+</head>
+<body>
+これはテストです。これはテストです。これはテストです。これはテストです。これはテストです。これはテストです。これはテストです。これはテストです。
+
+<!-- *********** top *********** -->
+ <p align="right">
+<a href="index.html">元のページへ</a>
+</p>
+<h1>
+テストページ
+</h1>
+<!-- *********** main *********** -->
+
+<!-- *********** top ***********
+
+<!-- *********** info *********** -->
+
+<!--    My standard signature   -->
+<hr>
+<address>
+
+</address>
+</body>
+</html>
